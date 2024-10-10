@@ -1,0 +1,24 @@
+# Dataset Path
+path: all_dataset
+train:
+- Japan/images/train
+- India/images/train
+- China_MotorBike/images/train
+- China_Drone/images/train
+- Czech/images/train
+- Norway/images/train
+- United_States/images/train
+val:
+- Japan/images/val
+- India/images/val
+- China_MotorBike/images/val
+- China_Drone/images/val
+- Czech/images/val
+- Norway/images/val
+- United_States/images/val
+# Class Names List
+names:
+  0: Longitudinal Crack
+  1: Transverse Crack
+  2: Alligator Crack
+  3: Potholes
