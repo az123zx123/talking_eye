@@ -1,0 +1,97 @@
+# Dataset Path
+path: VQA
+train:
+- images/train
+val:
+- images/val
+names:
+    0: Use the Other Door Sign
+    1: Accent Paving
+    2: Barrier Post
+    3: Barrier Stump
+    4: Bench
+    5: Bicycle
+    6: Brick Paving
+    7: Brick Wall
+    8: Bridge
+    9: Building
+    10: Bus
+    11: Bus Stop
+    12: Car
+    13: Chair
+    14: Clear Ice
+    15: Closed Sidewalk
+    16: Cobblestone Paving
+    17: Counter
+    18: Crosswalk
+    19: Curb
+    20: Curved Railing
+    21: Dog
+    22: Doorway
+    23: Driveway (flat)
+    24: Elevator
+    25: Escalator
+    26: Fence
+    27: Fire hydrant
+    28: Flush Door
+    29: Foldout Sign
+    30: Fountain
+    31: Gate
+    32: Guide Dog
+    33: Gutter
+    34: Hose
+    35: Intersection
+    36: Lamp Post
+    37: Mailbox
+    38: Maintenance Vehicle
+    39: Motorcycle
+    40: Moving Walk
+    41: Overhanging Tree Branches
+    42: Parallel Parking Spot
+    43: Paratransit Vehicle
+    44: Pedestrian Crossing
+    45: Person
+    46: Person with a Disability
+    47: Pillar
+    48: Pole
+    49: Puddle
+    50: Push Button
+    51: Railing
+    52: Raised Entryway
+    53: Retaining Wall
+    54: Road
+    55: Road Divider
+    56: Road Shoulder
+    57: Roadside Parking
+    58: Sidewalk
+    59: Sidewalk Pits
+    60: Sign
+    61: Sign Post
+    62: Sloped Driveway
+    63: Sloped Curb
+    64: Snow
+    65: Stairs
+    66: Stop Sign
+    67: Street Vendor
+    68: Table
+    69: Tactile Paving
+    70: Toilet Sign
+    71: Traffic Signals
+    72: Train Platform
+    73: Train Tracks
+    74: Trash Bins
+    75: Trash on Roads
+    76: Tree
+    77: Turnstile
+    78: Uncontrolled Crossing
+    79: Uneven Stairs
+    80: Unpaved Road
+    81: Unpaved Sidewalk
+    82: Vegetation
+    83: Wall
+    84: Water Leakage
+    85: Water Pipes
+    86: Wet Surface
+    87: Wheelchair
+    88: White Cane
+    89: Yard Waste
